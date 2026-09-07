@@ -2,7 +2,6 @@
 
 A Dalamud plugin that shows FFXIV gil-makers **what to flip right now** — TSM's brain, OSRS-style ranked feed, all shaped to FFXIV's constraints.
 
-> See `vibe/01_mini_prd.md` for the product vision, `vibe/02_scope_notes.md` for scope, and `vibe/STATUS.md` for the current session state.
 
 ## What it does
 
