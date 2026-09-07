@@ -1,0 +1,15 @@
+﻿<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <PropertyGroup>
+    <Name>KupoTradeMaster</Name>
+    <Author>foglerk</Author>
+    <Description>TSM-inspired FFXIV market flip ranker: auto-logged journal, Universalis-powered FlipScore, and a minimal price DSL. Read-only + user-clicks only.</Description>
+    <Punchline>What to flip right now.</Punchline>
+    <Version>0.1.0</Version>
+    <AssemblyName>KupoTradeMaster</AssemblyName>
+    <RepoUrl>https://github.com/foglerk/kupotrademaster</RepoUrl>
+    <Tags>market;flipping;gil;retainer;universalis</Tags>
+    <CategoryTags>utility</CategoryTags>
+  </PropertyGroup>
+
+</Project>

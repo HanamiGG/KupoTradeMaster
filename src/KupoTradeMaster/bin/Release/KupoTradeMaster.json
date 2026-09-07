@@ -1,0 +1,26 @@
+{
+  "Author": "foglerk",
+  "Name": "KupoTradeMaster",
+  "InternalName": "KupoTradeMaster",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "TSM-inspired FFXIV market flip ranker: auto-logged journal, Universalis-powered FlipScore, and a minimal price DSL. Read-only + user-clicks only.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/foglerk/kupotrademaster",
+  "Tags": [
+    "market",
+    "flipping",
+    "gil",
+    "retainer",
+    "universalis"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "What to flip right now.",
+  "AcceptsFeedback": true
+}
