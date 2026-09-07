@@ -1,5 +1,5 @@
 <h1>
-  <img src="logo.png" alt="KupoTradeMaster" width="128" align="left" style="margin-right: 20px;"/>
+  <img src="logo.png" alt="KupoTradeMaster" width="64" align="left" style="margin-right: 10px;"/>
   KupoTradeMaster
 </h1>
 
