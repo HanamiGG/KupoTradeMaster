@@ -1,9 +1,8 @@
 <h1>
-  <img src="logo.png" alt="KupoTradeMaster" width="48" align="left" style="margin-right: 10px;"/>
+  <img src="logo.png" alt="KupoTradeMaster" width="128" align="left" style="margin-right: 10px;"/>
   KupoTradeMaster
 </h1>
 
-> What to flip right now.
 
 A market-board sidekick for FFXIV crafters and flippers. Find good buys, know what your retainers need, and track every gil you spend and earn, all in one plugin. No auto-clickers, no bots. It shows you the numbers. You decide.
 
