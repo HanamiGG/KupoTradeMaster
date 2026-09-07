@@ -1,10 +1,10 @@
 ﻿[
   {
-    "Author": "foglerk",
+    "Author": "hanamigg",
     "Name": "KupoTradeMaster",
     "InternalName": "KupoTradeMaster",
-    "AssemblyVersion": "0.1.0.0",
-    "TestingAssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
+    "TestingAssemblyVersion": "0.1.1.0",
     "Description": "TSM-inspired FFXIV market flip ranker: auto-logged journal, Universalis-powered FlipScore, and a minimal price DSL. Read-only + user-clicks only.",
     "Punchline": "What to flip right now.",
     "ApplicableVersion": "any",
