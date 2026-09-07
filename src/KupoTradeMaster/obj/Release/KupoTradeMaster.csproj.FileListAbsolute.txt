@@ -1,9 +1,0 @@
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\bin\Release\KupoTradeMaster.deps.json
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\bin\Release\KupoTradeMaster.dll
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.csproj.AssemblyReference.cache
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.GeneratedMSBuildEditorConfig.editorconfig
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.AssemblyInfoInputs.cache
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.AssemblyInfo.cs
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.csproj.CoreCompileInputs.cache
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.sourcelink.json
-C:\HeadroomAI\ffxivtsm\src\KupoTradeMaster\obj\Release\KupoTradeMaster.dll
