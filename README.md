@@ -3,8 +3,6 @@
   KupoTradeMaster
 </h1>
 
-> What to flip right now.
-
 **KupoTradeMaster** is a Dalamud plugin for FFXIV market-board flippers, crafters, and retainer merchants. It fuses TSM-style buy formulas with an OSRS-style ranked "opportunities" feed, an auto-logged trade journal, cross-world arbitrage detection, restock lists with retainer-inventory awareness, and a paste-in crafting buylist that resolves to raw materials with the cheapest world to buy each from — all shaped around FFXIV's per-item market board, retainer cap, and Universalis data model.
 
 The plugin is **read-only and user-clicks only**. It never posts, cancels, buys, or lists on your behalf. Everything it shows is a decision aid — you press the buttons.
