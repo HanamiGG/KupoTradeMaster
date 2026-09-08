@@ -3,7 +3,7 @@
   KupoTradeMaster
 </h1>
 
-[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/hanamivgc) [![Discord](https://shields.io)]([https://discord.gg](https://discord.gg/aVgx6dVSre)
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/hanamivgc) [![Discord](https://shields.io)]([https://discord.gg/aVgx6dVSre)
 
 A market-board sidekick for FFXIV crafters and flippers. Find good buys, know what your retainers need, and track every gil you spend and earn, all in one plugin. No auto-clickers, no bots. It shows you the numbers. You decide.
 
