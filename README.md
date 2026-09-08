@@ -41,10 +41,6 @@ Allagan Tools, AutoRetainer, Artisan, MarketBoardPlugin, PriceInsight, and Dagob
 
 No auto-posting, no auto-cancelling, no auto-buying. If you want a real undercutter, Dagobert is the community standard and it does that job well. KupoTradeMaster is the "help me decide what to trade" tool.
 
-## Credits
-
-Market data from Universalis. Built on Dalamud. Inspired by TradeSkillMaster and OSRS Flipping Utilities.
-
 
 ## Credits
 
