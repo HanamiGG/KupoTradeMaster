@@ -45,3 +45,8 @@ No auto-posting, no auto-cancelling, no auto-buying. If you want a real undercut
 
 Market data from Universalis. Built on Dalamud. Inspired by TradeSkillMaster and OSRS Flipping Utilities.
 
+
+## Credits
+
+Market data from Universalis. Built on Dalamud. Inspired by TradeSkillMaster and OSRS Flipping Utilities.
+
