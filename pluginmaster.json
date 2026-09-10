@@ -3,10 +3,10 @@
     "Author": "hanamigg",
     "Name": "KupoTradeMaster",
     "InternalName": "KupoTradeMaster",
-    "AssemblyVersion": "0.5.3.0",
-    "TestingAssemblyVersion": "0.5.3.0",
+    "AssemblyVersion": "0.5.4.0",
+    "TestingAssemblyVersion": "0.5.4.0",
     "Description": "TSM-inspired FFXIV market flip ranker: auto-logged journal, Universalis-powered FlipScore, and a minimal price DSL. Read-only + user-clicks only.",
-    "Punchline": "What to flip right now.",
+    "Punchline": "Bridging the gap between websites and plugins, Kupo!",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/hanamigg/kupotrademaster",
     "Tags": [
@@ -32,4 +32,5 @@
     "DownloadCount": 0
   }
 ]
+
 
